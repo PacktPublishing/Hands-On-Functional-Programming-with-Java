@@ -18,7 +18,7 @@ By the end of the course, you will have mastered the concepts regarding function
 
 ## Instructions and Navigation
 ### Assumed Knowledge
-To fully benefit from the coverage included in this course, you will need:<br/>
+You can fully benefit from the coverage included in this course:<br/>
 If you are a Java developer and want to improve your applications using the functional programming approach, then this course is for you. A solid understanding of Java concepts is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>

@@ -22,14 +22,15 @@ You can fully benefit from the coverage included in this course:<br/>
 If you are a Java developer and want to improve your applications using the functional programming approach, then this course is for you. A solid understanding of Java concepts is required.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Recommended Hardware Requirements
+
 For an optimal experience with hands-on labs and other practical activities, we recommend the following configuration:
 
 OS:  Windows, Mac and Linux
 Processor: Intel i5
 Memory: 4GB
 Storage: 256GB
-Software Requirements
+
+Software Requirements:
 
 AWS account with appropriate IAM roles, Jupyter notebook, EC2 instances, and so on
 Operating system: Windows/Linux/OSX

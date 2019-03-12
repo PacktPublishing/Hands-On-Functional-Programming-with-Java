@@ -8,13 +8,12 @@ By the end of the course, you will have mastered the concepts regarding function
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Get a solid introduction and foundation to Computer Vision 
-<LI>Build real-time apps that deal with image and video processing 
-<LI>Extract information from images and videos 
-<LI>Explore the vastness of deep learning with images and videos 
-<LI>Build an Optical Character Recognition (OCR) engine from scratch 
-<LI>Train your own face recognition system 
-<LI>Create your own real-time object classifier </LI></UL></DIV>
+<LI>Utilize the functional programming paradigm on practical problems in Java. 
+<LI>You will be able to create robust software with few errors. 
+<LI>Discover the Java Stream interface for developing functional source code. 
+<LI>Implement lambda expressions all through your code, making it more readable and maintainable. 
+<LI>You will implement the Collections framework and all of its interfaces. 
+</LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
